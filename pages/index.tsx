@@ -17,7 +17,7 @@ export default function Home() {
     name: 'file',
     multiple: false,
     maxCount: 1,
-    action: 'http://15.235.39.220/file/upload',
+    action: 'https://meuzuks.xyz/file/upload',
     onChange(info) {
       const { status } = info.file;
       if (status !== 'uploading') {
