@@ -6,6 +6,7 @@
   font-size: 1.3rem;
   display: inline-block;
   color: #fff;
+  overflow: auto;
   background-color: rgb(2, 218, 2);
 }
 
